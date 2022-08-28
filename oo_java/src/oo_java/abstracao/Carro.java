@@ -34,5 +34,8 @@ public class Carro extends Veiculo {
 	public boolean estaLigado() {
 		return ligado;
 	}
+
+    public void setPlaca(String string) {
+    }
     
 }
